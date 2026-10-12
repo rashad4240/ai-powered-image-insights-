@@ -23,5 +23,31 @@
             "Adjust the brightness and contrast settings if using this as a background to ensure screen readability.",
             "If using for a digital project, ensure that any overlaid text is placed in the darker sections to maintain legibility."
         ]
+    },
+    {
+        "filename": "134308459758504670.jpg",
+        "description": "A high-resolution, wide-angle shot of a secluded tropical beach at sunrise or sunset. The foreground features golden sand with gentle sea foam washing ashore. In the center, dark volcanic rocks protrude into the turquoise water, framed by lush green tropical vegetation and several tall palm trees. The background shows a calm ocean under a sky filled with textured clouds, with a distant island silhouette visible on the horizon.",
+        "objects": [
+            "golden sand",
+            "ocean water",
+            "volcanic rocks",
+            "palm trees",
+            "green vegetation",
+            "sea foam",
+            "clouds",
+            "distant island"
+        ],
+        "insights": [
+            "The presence of dark volcanic rock is characteristic of volcanic islands like Hawaii, indicating the area's geological origin.",
+            "The low angle of the sunlight suggests the image was captured during the 'golden hour,' which minimizes harsh shadows and enhances color saturation.",
+            "The scene represents a high-contrast environment between the warm tones of the sand and the cool tones of the ocean.",
+            "The calm water and pristine sand suggest a remote or well-preserved coastal environment with minimal human impact."
+        ],
+        "recommendations": [
+            "Visit during the early morning hours to capture the softest natural light and avoid peak crowds.",
+            "Use a polarizing filter when photographing this scene to reduce glare on the wet sand and enhance the blue tones of the water.",
+            "Explore the area during low tide to safely access the rocky outcroppings and view marine life in tide pools.",
+            "Wear sturdy footwear when walking near the volcanic rocks, as they can be sharp and uneven."
+        ]
     }
 ]
