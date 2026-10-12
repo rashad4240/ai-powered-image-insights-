@@ -28,10 +28,10 @@ An AI-powered Python application that analyzes images and generates useful insig
 ![Home Page](screenshots/home.png)
 
 ### Uploaded Image
-![Uploaded Image](screenshots/uploaded-image.png)
+![Uploaded Image](screenshots/uploaded_image.png)
 
 ### Analysis Results
-![Analysis Results](screenshots/analysis.png)
+![Analysis Results](screenshots/analysis_image.png)
 
 ## Run Locally
 
